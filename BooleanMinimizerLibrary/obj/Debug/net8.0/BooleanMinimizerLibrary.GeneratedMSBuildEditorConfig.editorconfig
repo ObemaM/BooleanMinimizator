@@ -11,5 +11,3 @@ build_property.RootNamespace = BooleanMinimizerLibrary
 build_property.ProjectDir = C:\Users\barac\OneDrive\Документы\GitHub\BooleanMinimizator\BooleanMinimizerLibrary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.EffectiveAnalysisLevelStyle = 8.0
-build_property.EnableCodeStyleSeverity = 

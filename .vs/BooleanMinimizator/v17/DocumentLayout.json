@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|c:\\users\\barac\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\booleanminimizator\\booleanminimizator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|solutionrelative:booleanminimizator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|c:\\users\\barac\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\booleanminimizator\\booleanminimizator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|solutionrelative:booleanminimizator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|c:\\users\\barac\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\booleanminimizator\\booleanminimizator\\models\\booleanminimizatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|solutionrelative:booleanminimizator\\models\\booleanminimizatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|c:\\users\\barac\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\booleanminimizator\\booleanminimizator\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|solutionrelative:booleanminimizator\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FB3C2C7-9372-4ADC-A47E-1BB451F31DE3}|BooleanMinimizerLibrary\\BooleanMinimizerLibrary.csproj|c:\\users\\barac\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\booleanminimizator\\booleanminimizerlibrary\\karnaughmapbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +19,16 @@
       "RelativeMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|solutionrelative:booleanminimizator\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|c:\\users\\barac\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\booleanminimizator\\booleanminimizator\\models\\booleanminimizatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|solutionrelative:booleanminimizator\\models\\booleanminimizatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0FB3C2C7-9372-4ADC-A47E-1BB451F31DE3}|BooleanMinimizerLibrary\\BooleanMinimizerLibrary.csproj|c:\\users\\barac\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\booleanminimizator\\booleanminimizerlibrary\\karnaughstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FB3C2C7-9372-4ADC-A47E-1BB451F31DE3}|BooleanMinimizerLibrary\\BooleanMinimizerLibrary.csproj|solutionrelative:booleanminimizerlibrary\\karnaughstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|c:\\users\\barac\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\booleanminimizator\\booleanminimizator\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|solutionrelative:booleanminimizator\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FB3C2C7-9372-4ADC-A47E-1BB451F31DE3}|BooleanMinimizerLibrary\\BooleanMinimizerLibrary.csproj|c:\\users\\barac\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\booleanminimizator\\booleanminimizerlibrary\\booleanminimizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|solutionrelative:booleanminimizator\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|c:\\users\\barac\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\booleanminimizator\\booleanminimizator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|solutionrelative:booleanminimizator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|c:\\users\\barac\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\booleanminimizator\\booleanminimizator\\wwwroot\\userhelp\\annotatsiya.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6447EE40-EA70-414C-A7B2-D7D6FADFB8BE}|BooleanMinimizator\\BooleanMinimizator.csproj|solutionrelative:booleanminimizator\\wwwroot\\userhelp\\annotatsiya.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 493,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,33 +86,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "KarnaughMapBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizerLibrary\\KarnaughMapBuilder.cs",
-              "RelativeDocumentMoniker": "BooleanMinimizerLibrary\\KarnaughMapBuilder.cs",
-              "ToolTip": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizerLibrary\\KarnaughMapBuilder.cs",
-              "RelativeToolTip": "BooleanMinimizerLibrary\\KarnaughMapBuilder.cs",
-              "ViewState": "AgIAANUBAAAAAAAAAAAIwB0CAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T19:22:30.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BooleanMinimizator\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BooleanMinimizator\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACkBAAAAAAAAAAAqwCECAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-27T19:19:44.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BooleanMinimizator\\Controllers\\HomeController.cs",
@@ -124,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BooleanMinimizatorModel.cs",
               "DocumentMoniker": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\Models\\BooleanMinimizatorModel.cs",
               "RelativeDocumentMoniker": "BooleanMinimizator\\Models\\BooleanMinimizatorModel.cs",
@@ -132,8 +119,7 @@
               "RelativeToolTip": "BooleanMinimizator\\Models\\BooleanMinimizatorModel.cs",
               "ViewState": "AgIAAHcAAAAAAAAAAAAmwMkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T19:54:29.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T19:54:29.418Z"
             },
             {
               "$type": "Document",
@@ -149,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "BooleanMinimizator\\wwwroot\\css\\site.css",
@@ -157,12 +143,11 @@
               "RelativeToolTip": "BooleanMinimizator\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAoCAAAAAAAAAAAcwF4CAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-27T19:19:40.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T19:19:40.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BooleanMinimizer.cs",
               "DocumentMoniker": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizerLibrary\\BooleanMinimizer.cs",
               "RelativeDocumentMoniker": "BooleanMinimizerLibrary\\BooleanMinimizer.cs",
@@ -174,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SyntaxAnalyzer.cs",
               "DocumentMoniker": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizerLibrary\\SyntaxAnalyzer.cs",
               "RelativeDocumentMoniker": "BooleanMinimizerLibrary\\SyntaxAnalyzer.cs",
@@ -186,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Node.cs",
               "DocumentMoniker": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizerLibrary\\Node.cs",
               "RelativeDocumentMoniker": "BooleanMinimizerLibrary\\Node.cs",
@@ -198,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "KarnaughGroup.cs",
               "DocumentMoniker": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizerLibrary\\KarnaughGroup.cs",
               "RelativeDocumentMoniker": "BooleanMinimizerLibrary\\KarnaughGroup.cs",
@@ -210,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "FunctionVectorBuilder.cs",
               "DocumentMoniker": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizerLibrary\\FunctionVectorBuilder.cs",
               "RelativeDocumentMoniker": "BooleanMinimizerLibrary\\FunctionVectorBuilder.cs",
@@ -222,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "all2.js",
               "DocumentMoniker": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\js\\all2.js",
               "RelativeDocumentMoniker": "BooleanMinimizator\\wwwroot\\UserHelp\\js\\all2.js",
@@ -234,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "BooleanMinimizator\\Models\\ErrorViewModel.cs",
@@ -246,7 +231,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\Program.cs",
+              "RelativeDocumentMoniker": "BooleanMinimizator\\Program.cs",
+              "ToolTip": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\Program.cs",
+              "RelativeToolTip": "BooleanMinimizator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:08:59.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KarnaughMapBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizerLibrary\\KarnaughMapBuilder.cs",
+              "RelativeDocumentMoniker": "BooleanMinimizerLibrary\\KarnaughMapBuilder.cs",
+              "ToolTip": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizerLibrary\\KarnaughMapBuilder.cs",
+              "RelativeToolTip": "BooleanMinimizerLibrary\\KarnaughMapBuilder.cs",
+              "ViewState": "AgIAANUBAAAAAAAAAAAIwB0CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:22:30.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "favicon.ico - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]",
               "DocumentMoniker": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\favicon.ico",
               "RelativeDocumentMoniker": "BooleanMinimizator\\wwwroot\\favicon.ico",
@@ -255,18 +265,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
               "WhenOpened": "2025-05-28T08:14:39.581Z",
               "EditorCaption": " - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\Program.cs",
-              "RelativeDocumentMoniker": "BooleanMinimizator\\Program.cs",
-              "ToolTip": "C:\\Users\\barac\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\Program.cs",
-              "RelativeToolTip": "BooleanMinimizator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T12:08:59.712Z"
             },
             {
               "$type": "Document",

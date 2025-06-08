@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BooleanMinimizerLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f42e99a65ae9e6bd7a5de0e077afd2de22cf1496")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c53644ce52cae474af9bd2de93982e385dcd7126")]
 [assembly: System.Reflection.AssemblyProductAttribute("BooleanMinimizerLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BooleanMinimizerLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
