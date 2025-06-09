@@ -110,3 +110,6 @@ C:\Users\barac\OneDrive\Документы\GitHub\BooleanMinilizator\BooleanMini
 C:\Users\barac\OneDrive\Документы\GitHub\BooleanMinilizator\BooleanMinimizator\obj\Debug\net8.0\BooleanMinimizator.pdb
 C:\Users\barac\OneDrive\Документы\GitHub\BooleanMinilizator\BooleanMinimizator\obj\Debug\net8.0\BooleanMinimizator.genruntimeconfig.cache
 C:\Users\barac\OneDrive\Документы\GitHub\BooleanMinilizator\BooleanMinimizator\obj\Debug\net8.0\ref\BooleanMinimizator.dll
+C:\Users\barac\OneDrive\Документы\GitHub\BooleanMinimizator\BooleanMinimizator\bin\Debug\net8.0\BooleanMinimizator.staticwebassets.endpoints.json
+C:\Users\barac\OneDrive\Документы\GitHub\BooleanMinimizator\BooleanMinimizator\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\barac\OneDrive\Документы\GitHub\BooleanMinimizator\BooleanMinimizator\obj\Debug\net8.0\staticwebassets\msbuild.BooleanMinimizator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

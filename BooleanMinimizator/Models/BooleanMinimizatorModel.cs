@@ -3,39 +3,104 @@ using static BooleanMinimizerLibrary.KarnaughMapBuilder;
 
 namespace BooleanMinimizator.Models
 {
+    /// <summary>
+    /// Основная модель данных для калькулятора булевых функций
+    /// </summary>
     public class BooleanMinimizatorModel
     {
+<<<<<<< HEAD
         public string InputFunction { get; set; }  // сюда пользователь вводит функцию
 
         public string ResultMessage { get; set; }  // сюда выводится результат: успех или текст ошибки
 
-        public string? PolizOutput { get; set; }   // сюда выводится ПОЛИЗ
-
+=======
+        /// <summary>
+        /// Функция, вводимая пользователем
+        /// </summary>
+        public string InputFunction { get; set; }
+        
+        /// <summary>
+        /// Сообщение о результате обработки
+        /// </summary>
+        public string ResultMessage { get; set; }
+        
+        /// <summary>
+        /// Обратная польская запись (не используется в текущей версии)
+        /// </summary>
+        public string? PolizOutput { get; set; }
+        
+        /// <summary>
+        /// Флаг успешного решения
+        /// </summary>
+>>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
         public bool IsSolved { get; set; }
-
-        public string? VectorOutput { get; set; }  // сюда выводится вектор функции
-
-        public List<Dictionary<string, bool>> TruthTable { get; set; } // Таблица истинности
-
-        public string FunctionExpression { get; set; } // Новое поле для хранения функции
-
-        public string SKNFOutput { get; set; }      // Совершенная конъюнктивная нормальная форма
-
-        public string SDNFOutput { get; set; }      // Совершенная дизъюнктивная нормальная форма
-
-        public string MKNFOutput { get; set; }      // Минимальная конъюнктивная нормальная форма
-
-        public string MDNFOutput { get; set; }      // Минимальная дизъюнктивная нормальная форма
-
+        
+        /// <summary>
+        /// Вектор значений функции
+        /// </summary>
+        public string? VectorOutput { get; set; }
+        
+        /// <summary>
+        /// Таблица истинности функции
+        /// </summary>
+        public List<Dictionary<string, bool>> TruthTable { get; set; }
+        
+        /// <summary>
+        /// Текстовое представление функции
+        /// </summary>
+        public string FunctionExpression { get; set; }
+        
+        /// <summary>
+        /// Совершенная конъюнктивная нормальная форма
+        /// </summary>
+        public string SKNFOutput { get; set; }
+        
+        /// <summary>
+        /// Совершенная дизъюнктивная нормальная форма
+        /// </summary>
+        public string SDNFOutput { get; set; }
+        
+        /// <summary>
+        /// Минимальная конъюнктивная нормальная форма
+        /// </summary>
+        public string MKNFOutput { get; set; }
+        
+        /// <summary>
+        /// Минимальная дизъюнктивная нормальная форма
+        /// </summary>
+        public string MDNFOutput { get; set; }
+        
+        /// <summary>
+        /// Карта Карно
+        /// </summary>
         public List<List<string>> KarnaughMap { get; set; }
-
+        
+        /// <summary>
+        /// Шаги построения карты Карно
+        /// </summary>
         public List<KarnaughStep> KarnaughSteps { get; set; }
-
+        
+        /// <summary>
+        /// Области единиц для МДНФ
+        /// </summary>
         public List<KarnaughMapBuilder.Area> Areas { get; set; }
-
+        
+        /// <summary>
+        /// Области нулей для МКНФ
+        /// </summary>
         public List<Area> ZeroAreas { get; set; }
-
+        
+        /// <summary>
+        /// Список переменных функции
+        /// </summary>
         public List<string> Variables { get; set; }
+        
+        /// <summary>
+        /// Получает логическое выражение для области единиц (для МДНФ)
+        /// </summary>
+        /// <param name="area">Область на карте Карно</param>
+        /// <param name="variables">Список переменных</param>
+        /// <returns>Логическое выражение</returns>
         public string GetExpressionForArea(Area area, List<string> variables)
         {
             if (area == null || variables == null || variables.Count == 0 || KarnaughMap == null || KarnaughMap.Count == 0)
@@ -110,6 +175,12 @@ namespace BooleanMinimizator.Models
                 : "1"; // Константа 1 если нет переменных
         }
 
+        /// <summary>
+        /// Получает логическое выражение для области нулей (для МКНФ)
+        /// </summary>
+        /// <param name="area">Область на карте Карно</param>
+        /// <param name="variables">Список переменных</param>
+        /// <returns>Логическое выражение</returns>
         public string GetExpressionForZeroArea(Area area, List<string> variables)
         {
             if (area == null || variables == null || variables.Count == 0 || KarnaughMap == null || KarnaughMap.Count == 0)
@@ -184,7 +255,12 @@ namespace BooleanMinimizator.Models
                 : "0"; // Константа 0 если нет переменных
         }
 
-        // Вспомогательный метод для получения кода Грея
+        /// <summary>
+        /// Вспомогательный метод для получения кода Грея
+        /// </summary>
+        /// <param name="index">Индекс в последовательности</param>
+        /// <param name="numBits">Количество бит</param>
+        /// <returns>Код Грея в виде списка бит</returns>
         private List<int> GetGrayCode(int index, int numBits)
         {
             if (numBits == 0)

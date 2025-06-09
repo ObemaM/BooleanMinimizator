@@ -1,602 +1,605 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BooleanMinimizator.bundle.scp.css",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BooleanMinimizator.bundle.scp.css",
       "PackagePath": "staticwebassets\\BooleanMinimizator.18ymdjqw0p.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\annotatsiya.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\annotatsiya.htm",
       "PackagePath": "staticwebassets\\UserHelp\\annotatsiya.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\avarijnye_situatsii.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\avarijnye_situatsii.htm",
       "PackagePath": "staticwebassets\\UserHelp\\avarijnye_situatsii.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\css\\all.css",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\css\\all.css",
       "PackagePath": "staticwebassets\\UserHelp\\css\\all.css"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\css\\printed.css",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\css\\printed.css",
       "PackagePath": "staticwebassets\\UserHelp\\css\\printed.css"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\custom.css",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\custom.css",
       "PackagePath": "staticwebassets\\UserHelp\\custom.css"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0030.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0030.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0030.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0031.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0031.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0031.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0032.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0032.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0032.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0033.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0033.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0033.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0034.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0034.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0034.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0035.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0035.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0035.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0036.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0036.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0036.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0037.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0037.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0037.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0038.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0038.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0038.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0039.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0039.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0039.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0041.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0041.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0041.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0042.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0042.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0042.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0043.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0043.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0043.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0044.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0044.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0044.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0045.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0045.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0045.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0046.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0046.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0046.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0047.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0047.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0047.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0048.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0048.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0048.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0049.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0049.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0049.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu004a.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu004a.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu004a.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu004c.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu004c.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu004c.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu004d.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu004d.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu004d.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu004e.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu004e.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu004e.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0050.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0050.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0050.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0052.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0052.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0052.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0053.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0053.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0053.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0054.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0054.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0054.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0056.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0056.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0056.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0057.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0057.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0057.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0058.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0058.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0058.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0059.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0059.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0059.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu005a.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu005a.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu005a.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu005f.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu005f.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu005f.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0410.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0410.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0410.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0411.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0411.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0411.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0412.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0412.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0412.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0413.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0413.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0413.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0414.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0414.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0414.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0415.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0415.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0415.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0416.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0416.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0416.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0417.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0417.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0417.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0418.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0418.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0418.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu041a.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu041a.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu041a.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu041b.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu041b.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu041b.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu041c.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu041c.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu041c.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu041d.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu041d.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu041d.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu041e.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu041e.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu041e.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu041f.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu041f.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu041f.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0420.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0420.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0420.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0421.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0421.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0421.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0422.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0422.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0422.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0423.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0423.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0423.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0424.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0424.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0424.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0425.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0425.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0425.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0426.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0426.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0426.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0427.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0427.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0427.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0428.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu0428.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu0428.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu042d.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu042d.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu042d.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu042f.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\0xu042f.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\0xu042f.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\ids.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\ids.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\ids.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\prefixes.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_search\\prefixes.js",
       "PackagePath": "staticwebassets\\UserHelp\\de_search\\prefixes.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_style.css",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\de_style.css",
       "PackagePath": "staticwebassets\\UserHelp\\de_style.css"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_file_list",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_file_list",
       "PackagePath": "staticwebassets\\UserHelp"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_header_custom.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_header_custom.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_header_custom.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_index_custom.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_index_custom.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_index_custom.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_10.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_10.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_10.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_11.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_11.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_11.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_12.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_12.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_12.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_13.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_13.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_13.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_14.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_14.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_14.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_15.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_15.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_15.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_16.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_16.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_16.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_17.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_17.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_17.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_18.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_18.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_18.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_19.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_19.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_19.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_2.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_2.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_2.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_20.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_20.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_20.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_21.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_21.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_21.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_22.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_22.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_22.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_23.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_23.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_23.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_24.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_24.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_24.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_25.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_25.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_25.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_26.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_26.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_26.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_27.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_27.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_27.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_28.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_28.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_28.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_29.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_29.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_29.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_3.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_3.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_3.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_30.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_30.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_30.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_31.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_31.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_31.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_32.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_32.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_32.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_33.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_33.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_33.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_34.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_34.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_34.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_35.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_35.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_35.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_36.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_36.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_36.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_4.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_4.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_4.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_5.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_5.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_5.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_6.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_6.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_6.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_7.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_7.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_7.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_8.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_8.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_8.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_9.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\drex_interfejs__custom_9.png",
       "PackagePath": "staticwebassets\\UserHelp\\drex_interfejs__custom_9.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\blocks\\interface-icons\\delicious_logo.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\blocks\\interface-icons\\delicious_logo.png",
       "PackagePath": "staticwebassets\\UserHelp\\i\\blocks\\interface-icons\\delicious_logo.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\blocks\\interface-icons\\digg-button.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\blocks\\interface-icons\\digg-button.png",
       "PackagePath": "staticwebassets\\UserHelp\\i\\blocks\\interface-icons\\digg-button.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\blocks\\interface-icons\\interface-icons-sprite.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\blocks\\interface-icons\\interface-icons-sprite.png",
       "PackagePath": "staticwebassets\\UserHelp\\i\\blocks\\interface-icons\\interface-icons-sprite.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\blocks\\search\\loading.gif",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\blocks\\search\\loading.gif",
       "PackagePath": "staticwebassets\\UserHelp\\i\\blocks\\search\\loading.gif"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\blocks\\tree\\sprite.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\blocks\\tree\\sprite.png",
       "PackagePath": "staticwebassets\\UserHelp\\i\\blocks\\tree\\sprite.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\null.gif",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\null.gif",
       "PackagePath": "staticwebassets\\UserHelp\\i\\null.gif"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\photoswipe\\default-skin.png",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\photoswipe\\default-skin.png",
       "PackagePath": "staticwebassets\\UserHelp\\i\\photoswipe\\default-skin.png"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\photoswipe\\default-skin.svg",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\photoswipe\\default-skin.svg",
       "PackagePath": "staticwebassets\\UserHelp\\i\\photoswipe\\default-skin.svg"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\photoswipe\\grab.cur",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\photoswipe\\grab.cur",
       "PackagePath": "staticwebassets\\UserHelp\\i\\photoswipe\\grab.cur"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\photoswipe\\grabbing.cur",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\photoswipe\\grabbing.cur",
       "PackagePath": "staticwebassets\\UserHelp\\i\\photoswipe\\grabbing.cur"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\photoswipe\\preloader.gif",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\photoswipe\\preloader.gif",
       "PackagePath": "staticwebassets\\UserHelp\\i\\photoswipe\\preloader.gif"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\photoswipe\\zoom_in.cur",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\i\\photoswipe\\zoom_in.cur",
       "PackagePath": "staticwebassets\\UserHelp\\i\\photoswipe\\zoom_in.cur"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\index.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\index.htm",
       "PackagePath": "staticwebassets\\UserHelp\\index.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\interfejs_.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\interfejs_.htm",
       "PackagePath": "staticwebassets\\UserHelp\\interfejs_.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\js\\all.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\js\\all.js",
       "PackagePath": "staticwebassets\\UserHelp\\js\\all.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\js\\all2.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\js\\all2.js",
       "PackagePath": "staticwebassets\\UserHelp\\js\\all2.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\js\\drexplain.data.index.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\js\\drexplain.data.index.js",
       "PackagePath": "staticwebassets\\UserHelp\\js\\drexplain.data.index.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\js\\oembed.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\js\\oembed.js",
       "PackagePath": "staticwebassets\\UserHelp\\js\\oembed.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\js\\socialscript.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\js\\socialscript.js",
       "PackagePath": "staticwebassets\\UserHelp\\js\\socialscript.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\js\\tooltips.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\js\\tooltips.js",
       "PackagePath": "staticwebassets\\UserHelp\\js\\tooltips.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\kratkoe_opisanie_vozmozhnostej.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\kratkoe_opisanie_vozmozhnostej.htm",
       "PackagePath": "staticwebassets\\UserHelp\\kratkoe_opisanie_vozmozhnostej.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\list_registratsii_izmenenij.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\list_registratsii_izmenenij.htm",
       "PackagePath": "staticwebassets\\UserHelp\\list_registratsii_izmenenij.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\nachalnaya_stranitsa.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\nachalnaya_stranitsa.htm",
       "PackagePath": "staticwebassets\\UserHelp\\nachalnaya_stranitsa.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\naznachenie_i_usloviya_primeneniya.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\naznachenie_i_usloviya_primeneniya.htm",
       "PackagePath": "staticwebassets\\UserHelp\\naznachenie_i_usloviya_primeneniya.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\oblast_primeneniya.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\oblast_primeneniya.htm",
       "PackagePath": "staticwebassets\\UserHelp\\oblast_primeneniya.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\opisanie_operatsij.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\opisanie_operatsij.htm",
       "PackagePath": "staticwebassets\\UserHelp\\opisanie_operatsij.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\perechen_ehkspluatatsionnoj_dokumentatsii.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\perechen_ehkspluatatsionnoj_dokumentatsii.htm",
       "PackagePath": "staticwebassets\\UserHelp\\perechen_ehkspluatatsionnoj_dokumentatsii.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\podgotovka_k_rabote.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\podgotovka_k_rabote.htm",
       "PackagePath": "staticwebassets\\UserHelp\\podgotovka_k_rabote.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\poryadok_proverki_rabotosposobnosti.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\poryadok_proverki_rabotosposobnosti.htm",
       "PackagePath": "staticwebassets\\UserHelp\\poryadok_proverki_rabotosposobnosti.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\poryadok_zagruzki_dannykh_i_programm.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\poryadok_zagruzki_dannykh_i_programm.htm",
       "PackagePath": "staticwebassets\\UserHelp\\poryadok_zagruzki_dannykh_i_programm.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\rekomendatsii_po_osvoeniyu.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\rekomendatsii_po_osvoeniyu.htm",
       "PackagePath": "staticwebassets\\UserHelp\\rekomendatsii_po_osvoeniyu.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\soderzhanie.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\soderzhanie.htm",
       "PackagePath": "staticwebassets\\UserHelp\\soderzhanie.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\sostav_i_soderzhanie_distributivnogo_nositelya_dannykh.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\sostav_i_soderzhanie_distributivnogo_nositelya_dannykh.htm",
       "PackagePath": "staticwebassets\\UserHelp\\sostav_i_soderzhanie_distributivnogo_nositelya_dannykh.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\terminy_i_sokrashcheniya.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\terminy_i_sokrashcheniya.htm",
       "PackagePath": "staticwebassets\\UserHelp\\terminy_i_sokrashcheniya.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\uroven_podgotovki_polzovatelya.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\uroven_podgotovki_polzovatelya.htm",
       "PackagePath": "staticwebassets\\UserHelp\\uroven_podgotovki_polzovatelya.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\vvedenie.htm",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\vvedenie.htm",
       "PackagePath": "staticwebassets\\UserHelp\\vvedenie.htm"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\webfonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\UserHelp\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\UserHelp\\webfonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\UserHelp\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\js\\contextHelp.js",
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\js\\contextHelp.js",
       "PackagePath": "staticwebassets\\js\\contextHelp.js"
     },
     {
-      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinilizator\\BooleanMinimizator\\wwwroot\\js\\site.js",
+<<<<<<< HEAD
+      "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+=======
+>>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BooleanMinimizator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

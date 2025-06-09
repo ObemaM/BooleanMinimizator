@@ -21,7 +21,7 @@ namespace BooleanMinimizerLibrary
                 {
                     variables.Add(i switch
                     {
-                        0 => "x",
+                        0 => "x", 
                         1 => "y",
                         2 => "z",
                         3 => "w",
@@ -169,6 +169,8 @@ namespace BooleanMinimizerLibrary
                 NodeType.Xor => Evaluate(node.Left, variables) ^ Evaluate(node.Right, variables),
                 NodeType.Implies => !Evaluate(node.Left, variables) || Evaluate(node.Right, variables),
                 NodeType.Equivalent => Evaluate(node.Left, variables) == Evaluate(node.Right, variables),
+                NodeType.Nand => !(Evaluate(node.Left, variables) && Evaluate(node.Right, variables)),
+                NodeType.Nor => !(Evaluate(node.Left, variables) || Evaluate(node.Right, variables)),
                 NodeType.Vector => EvaluateVector(node, variables),
                 _ => throw new Exception("Неизвестный тип узла")
             };

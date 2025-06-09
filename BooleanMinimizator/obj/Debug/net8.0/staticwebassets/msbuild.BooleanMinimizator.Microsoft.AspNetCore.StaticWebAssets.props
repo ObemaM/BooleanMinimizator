@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>erjnjt2n7c</Fingerprint>
-      <Integrity>NtW2z7yMk7Dt7gmXq/hmJJWzi/UCeX7RZhDMB8fqNl0=</Integrity>
+      <Fingerprint>jn3ef4xx8j</Fingerprint>
+      <Integrity>Aaevv9IS3sOfB0ypHjrzu2M7N0OQemlA4jogY0YPVhs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -66,29 +66,16 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>66m0tvurjd</Fingerprint>
-      <Integrity>wtbikoVuggvHH+e8VK8QwFkYZ6BiPd6Eg3UQUranVmk=</Integrity>
+<<<<<<< HEAD
+      <Fingerprint>a1ib6xi7g5</Fingerprint>
+      <Integrity>8gX4X7vexTCysXGMyqlnkaPwHp90yDXUOXknpjHB/1Q=</Integrity>
+=======
+      <Fingerprint>hdcybi5tpu</Fingerprint>
+      <Integrity>24l02gZmU/f1TzyCcBTNUKVqvMkthHJlqmOZ9DdpYtg=</Integrity>
+>>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\contextHelp.js'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
-      <SourceType>Package</SourceType>
-      <SourceId>BooleanMinimizator</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/BooleanMinimizator</BasePath>
-      <RelativePath>js/site.js</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>akgest4bg0</Fingerprint>
-      <Integrity>poRqz41WG9aaOb84wkudo2fS2hMa38i6S5EgRJHwgUc=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\UserHelp\annotatsiya.htm'))">
       <SourceType>Package</SourceType>

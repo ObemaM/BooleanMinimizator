@@ -10,7 +10,13 @@ namespace BooleanMinimizerLibrary
         Or,
         Xor,
         Implies,
-        Equivalent
+        Equivalent,
+        Nand,
+<<<<<<< HEAD
+        Nor
+=======
+        Nor      
+>>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
     }
 
     public class Node
@@ -28,7 +34,7 @@ namespace BooleanMinimizerLibrary
             Left = left;
             Right = right;
         }
-        
+
         static public HashSet<string> GetVariablesRecursive(Node node)
         {
             var variables = new HashSet<string>();

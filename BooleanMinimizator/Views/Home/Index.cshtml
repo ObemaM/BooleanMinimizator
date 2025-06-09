@@ -31,6 +31,10 @@
                 <button type="button" class="key" data-help="Переменная x">x</button>
                 <button type="button" class="key" data-help="Переменная y">y</button>
                 <button type="button" class="key" data-help="Переменная z">z</button>
+                <button type="button" class="key" data-help="Штрих Шеффера (НЕ-И)">↑</button>
+                <button type="button" class="key" data-help="Стрелка Пирса (НЕ-ИЛИ)">↓</button>
+                <button type="button" class="key" data-help="Логическая константа 1">1</button>
+                <button type="button" class="key" data-help="Логическая константа 0">0</button>
             </div>
             <button type="button" id="toggleKeyboard" data-help="Скрывает или показывает клавиатуру">Скрыть клавиатуру</button>
         </div>
@@ -93,11 +97,53 @@
         <div class="minimization-result">
             <h5>СКНФ</h5>
             <div class="formula-box">@Model.SKNFOutput</div>
+            <button type="button" class="hint-toggle" onclick="toggleHint('sknfHint')">Показать/скрыть подсказку</button>
+            <div id="sknfHint" class="minimization-hint" style="display: none;">
+                <h5>Как строить СКНФ:</h5>
+                <ol>
+<<<<<<< HEAD
+                    <li style="text-align: left;">Найдите все строки таблицы истинности, где функция равна 0</li>
+                    <li style="text-align: left;">Для каждой такой строки создайте дизъюнкцию всех переменных</li>
+                    <li style="text-align: left;">Если в строке переменная имеет значение 1, то она входит с отрицанием</li>
+                    <li style="text-align: left;">Если в строке переменная имеет значение 0, то она входит без отрицания</li>
+                    <li style="text-align: left;">Соедините все полученные дизъюнкции операцией конъюнкции (∧)</li>
+                    <li style="text-align: left;">Результат будет совершенной конъюнктивной нормальной формой</li>
+=======
+                    <li>Найдите все строки таблицы истинности, где функция равна 0</li>
+                    <li>Для каждой такой строки создайте дизъюнкцию всех переменных</li>
+                    <li>Если в строке переменная имеет значение 1, то она входит с отрицанием</li>
+                    <li>Если в строке переменная имеет значение 0, то она входит без отрицания</li>
+                    <li>Соедините все полученные дизъюнкции операцией конъюнкции (∧)</li>
+                    <li>Результат будет совершенной конъюнктивной нормальной формой</li>
+>>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
+                </ol>
+            </div>
         </div>
 
         <div class="minimization-result">
             <h5>СДНФ</h5>
             <div class="formula-box">@Model.SDNFOutput</div>
+            <button type="button" class="hint-toggle" onclick="toggleHint('sdnfHint')">Показать/скрыть подсказку</button>
+            <div id="sdnfHint" class="minimization-hint" style="display: none;">
+                <h5>Как строить СДНФ:</h5>
+                <ol>
+<<<<<<< HEAD
+                    <li style="text-align: left;">Найдите все строки таблицы истинности, где функция равна 1</li>
+                    <li style="text-align: left;">Для каждой такой строки создайте конъюнкцию всех переменных</li>
+                    <li style="text-align: left;">Если в строке переменная имеет значение 0, то она входит с отрицанием</li>
+                    <li style="text-align: left;">Если в строке переменная имеет значение 1, то она входит без отрицания</li>
+                    <li style="text-align: left;">Соедините все полученные конъюнкции операцией дизъюнкции (∨)</li>
+                    <li style="text-align: left;">Результат будет совершенной дизъюнктивной нормальной формой</li>
+=======
+                    <li>Найдите все строки таблицы истинности, где функция равна 1</li>
+                    <li>Для каждой такой строки создайте конъюнкцию всех переменных</li>
+                    <li>Если в строке переменная имеет значение 0, то она входит с отрицанием</li>
+                    <li>Если в строке переменная имеет значение 1, то она входит без отрицания</li>
+                    <li>Соедините все полученные конъюнкции операцией дизъюнкции (∨)</li>
+                    <li>Результат будет совершенной дизъюнктивной нормальной формой</li>
+>>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
+                </ol>
+            </div>
         </div>
     </div>
 
@@ -346,6 +392,14 @@
             <div class="minimization-result">
                 <h5>МДНФ</h5>
                 <div class="formula-box">@Model.MDNFOutput</div>
+                <button type="button" class="hint-toggle" onclick="toggleHint('mdnfHint')">Показать/скрыть подсказку</button>
+                <div id="mdnfHint" class="minimization-hint" style="display: none;">
+                    <h5>Как получить МДНФ:</h5>
+                    <ol>
+                        <li style="text-align: left;">Объедините все выделенные области единиц с карты Карно, используя операцию дизъюнкции (∨)</li>
+                        <li style="text-align: left;">Каждая область представляет собой конъюнкцию (∧) переменных или их отрицаний, которые не меняются внутри области</li>
+                    </ol>
+                </div>
             </div>
         }
 
@@ -354,6 +408,14 @@
             <div class="minimization-result">
                 <h5>МКНФ</h5>
                 <div class="formula-box">@Model.MKNFOutput</div>
+                <button type="button" class="hint-toggle" onclick="toggleHint('mknfHint')">Показать/скрыть подсказку</button>
+                <div id="mknfHint" class="minimization-hint" style="display: none;">
+                    <h5>Как получить МКНФ:</h5>
+                    <ol>
+                        <li style="text-align: left;">Объедините все выделенные области нулей с карты Карно, используя операцию конъюнкции (∧)</li>
+                        <li style="text-align: left;">Каждая область представляет собой дизъюнкцию (∨) переменных или их отрицаний, которые не меняются внутри области</li>
+                    </ol>
+                </div>
             </div>
         }
     </div>
@@ -388,6 +450,7 @@
         margin: 15px 0;
         border-radius: 10px;
         border: 1px solid #ddd;
+        text-align: left;
     }
 
     .hint-toggle {
