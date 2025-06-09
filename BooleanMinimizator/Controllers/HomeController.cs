@@ -5,23 +5,17 @@ using System.Diagnostics;
 
 namespace BooleanMinimizator.Controllers
 {
-    /// <summary>
     /// Основной контроллер приложения для работы с булевыми функциями
-    /// </summary>
     public class HomeController : Controller
     {
-        /// <summary>
         /// GET-метод для отображения начальной страницы калькулятора
-        /// </summary>
         [HttpGet]
         public IActionResult Index()
         {
             return View(new BooleanMinimizatorModel());
         }
 
-        /// <summary>
         /// POST-метод для обработки введенной функции и отображения результатов
-        /// </summary>
         [HttpPost]
         public IActionResult Index(BooleanMinimizatorModel model)
         {
@@ -65,10 +59,8 @@ namespace BooleanMinimizator.Controllers
             }
             return View(model);
         }
-
-        /// <summary>
+        
         /// Метод для отображения страницы ошибки
-        /// </summary>
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
