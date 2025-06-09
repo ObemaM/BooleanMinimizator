@@ -42,8 +42,6 @@ namespace BooleanMinimizator.Controllers
 
                     model.ResultMessage = "Функция успешно распознана!";
                     model.IsSolved = true;
-
-                    model.ResultMessage = "Функция успешно распознана!";
                 }
                 catch (Exception ex)
                 {

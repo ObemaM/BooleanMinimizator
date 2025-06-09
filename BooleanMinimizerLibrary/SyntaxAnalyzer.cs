@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+
 namespace BooleanMinimizerLibrary
 {
     public class SyntaxAnalyzer
@@ -20,17 +23,6 @@ namespace BooleanMinimizerLibrary
 
             return tree;
         }
-
-        private string NodeTypeToSymbol(NodeType type) => type switch
-        {
-            NodeType.Not => "¬",
-            NodeType.And => "∧",
-            NodeType.Or => "∨",
-            NodeType.Xor => "⊕",
-            NodeType.Implies => "→",
-            NodeType.Equivalent => "↔",
-            _ => throw new Exception("Неизвестный тип узла")
-        };
 
         private void NextChar()
         {
@@ -66,24 +58,33 @@ namespace BooleanMinimizerLibrary
 
         private Node OrXor()
         {
-            Node node = And();
+            Node node = AndNandNor();
             while (currentChar == '∨' || currentChar == '⊕')
             {
                 char op = currentChar;
                 NextChar();
                 NodeType type = op == '∨' ? NodeType.Or : NodeType.Xor;
-                node = new Node(type, null, node, And());
+                node = new Node(type, null, node, AndNandNor());
             }
             return node;
         }
 
-        private Node And()
+        private Node AndNandNor()
         {
             Node node = Not();
-            while (currentChar == '∧')
+            while (currentChar == '∧' || currentChar == '|' || currentChar == '↓' || currentChar == '↑')
             {
+                char op = currentChar;
                 NextChar();
-                node = new Node(NodeType.And, null, node, Not());
+                NodeType type = op switch
+                {
+                    '∧' => NodeType.And,
+                    '|' => NodeType.Nand,
+                    '↑' => NodeType.Nand,
+                    '↓' => NodeType.Nor,
+                    _ => throw new Exception("Неизвестный оператор")
+                };
+                node = new Node(type, null, node, Not());
             }
             return node;
         }
@@ -93,7 +94,7 @@ namespace BooleanMinimizerLibrary
             if (currentChar == '¬')
             {
                 NextChar();
-                Node operand = Primary(); // Получаем операнд после ¬
+                Node operand = Primary();
                 if (operand == null)
                     ThrowError("Ожидается переменная или константа после ¬");
                 return new Node(NodeType.Not, null, null, operand);
@@ -113,9 +114,8 @@ namespace BooleanMinimizerLibrary
             {
                 if (IsVector())
                 {
-                    string vector = ReadVector(); // Читаем строку вектора (например, "1010")
+                    string vector = ReadVector();
 
-                    // Определяем количество переменных
                     int numVars = (int)Math.Log(vector.Length, 2);
                     var variables = new List<string>();
                     for (int i = 0; i < numVars; i++)
@@ -130,7 +130,6 @@ namespace BooleanMinimizerLibrary
                         });
                     }
 
-                    // Создаем узел Vector с сохраненными переменными
                     return new Node(NodeType.Vector, vector) { Variables = variables };
                 }
                 else
