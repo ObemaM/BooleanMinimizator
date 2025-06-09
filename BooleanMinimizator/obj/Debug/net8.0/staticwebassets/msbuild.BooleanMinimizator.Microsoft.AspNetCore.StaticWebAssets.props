@@ -66,13 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-<<<<<<< HEAD
-      <Fingerprint>a1ib6xi7g5</Fingerprint>
-      <Integrity>8gX4X7vexTCysXGMyqlnkaPwHp90yDXUOXknpjHB/1Q=</Integrity>
-=======
-      <Fingerprint>hdcybi5tpu</Fingerprint>
-      <Integrity>24l02gZmU/f1TzyCcBTNUKVqvMkthHJlqmOZ9DdpYtg=</Integrity>
->>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
+      <Fingerprint>uszjpdepjh</Fingerprint>
+      <Integrity>/mi3EEHEzn0A5qMFKU4icFeS4+FxJITuwoDEKj86WOY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\contextHelp.js'))</OriginalItemSpec>

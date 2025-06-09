@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "X1Sjv8x1H8ExroR5SRFr3tDkcPYXj5lyXC0CnKDQaRg=",
-=======
-  "Hash": "GUkjgUmAk/K5dCbEvalAA6gdAsSUPvP0tjxcfNNnc+o=",
->>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
+  "Hash": "oZxdEO+6Pe8C0SZBxsHkz+KNyfiz8vw+DQcGkw+ruF4=",
   "Source": "BooleanMinimizator",
   "BasePath": "_content/BooleanMinimizator",
   "Mode": "Default",
@@ -119,50 +115,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
-      "Fingerprint": "a1ib6xi7g5",
-      "Integrity": "8gX4X7vexTCysXGMyqlnkaPwHp90yDXUOXknpjHB/1Q=",
-=======
-      "Fingerprint": "hdcybi5tpu",
-      "Integrity": "24l02gZmU/f1TzyCcBTNUKVqvMkthHJlqmOZ9DdpYtg=",
->>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
+      "Fingerprint": "uszjpdepjh",
+      "Integrity": "/mi3EEHEzn0A5qMFKU4icFeS4+FxJITuwoDEKj86WOY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\contextHelp.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\js\\site.js",
-      "SourceId": "BooleanMinimizator",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\",
-      "BasePath": "_content/BooleanMinimizator",
-      "RelativePath": "js/site#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "akgest4bg0",
-      "Integrity": "poRqz41WG9aaOb84wkudo2fS2hMa38i6S5EgRJHwgUc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
-    },
-    {
       "Identity": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\annotatsiya.htm",
       "SourceId": "BooleanMinimizator",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\UserHelp\\annotatsiya.htm",
-      "SourceId": "BooleanMinimizator",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\",
->>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
       "BasePath": "_content/BooleanMinimizator",
       "RelativePath": "UserHelp/annotatsiya#[.{fingerprint}]?.htm",
       "AssetKind": "All",
@@ -3207,7 +3170,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 14:55:09 GMT"
+          "Value": "Mon, 09 Jun 2025 11:34:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3252,7 +3215,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 14:55:09 GMT"
+          "Value": "Mon, 09 Jun 2025 11:34:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3297,7 +3260,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 14:55:09 GMT"
+          "Value": "Mon, 09 Jun 2025 11:34:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3334,7 +3297,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 14:55:09 GMT"
+          "Value": "Mon, 09 Jun 2025 11:34:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3513,75 +3476,6 @@
       ]
     },
     {
-<<<<<<< HEAD
-      "Route": "js/contextHelp.a1ib6xi7g5.js",
-=======
-      "Route": "js/contextHelp.hdcybi5tpu.js",
->>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
-      "AssetFile": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\js\\contextHelp.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-<<<<<<< HEAD
-          "Value": "5327"
-=======
-          "Value": "6606"
->>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-<<<<<<< HEAD
-          "Value": "\"8gX4X7vexTCysXGMyqlnkaPwHp90yDXUOXknpjHB/1Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 10:38:37 GMT"
-=======
-          "Value": "\"24l02gZmU/f1TzyCcBTNUKVqvMkthHJlqmOZ9DdpYtg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 08 Jun 2025 21:20:55 GMT"
->>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-<<<<<<< HEAD
-          "Value": "a1ib6xi7g5"
-=======
-          "Value": "hdcybi5tpu"
->>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
-        },
-        {
-          "Name": "label",
-          "Value": "js/contextHelp.js"
-        },
-        {
-          "Name": "integrity",
-<<<<<<< HEAD
-          "Value": "sha256-8gX4X7vexTCysXGMyqlnkaPwHp90yDXUOXknpjHB/1Q="
-=======
-          "Value": "sha256-24l02gZmU/f1TzyCcBTNUKVqvMkthHJlqmOZ9DdpYtg="
->>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
-        }
-      ]
-    },
-    {
       "Route": "js/contextHelp.js",
       "AssetFile": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\js\\contextHelp.js",
       "Selectors": [],
@@ -3592,11 +3486,7 @@
         },
         {
           "Name": "Content-Length",
-<<<<<<< HEAD
-          "Value": "5327"
-=======
-          "Value": "6606"
->>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
+          "Value": "6795"
         },
         {
           "Name": "Content-Type",
@@ -3604,19 +3494,11 @@
         },
         {
           "Name": "ETag",
-<<<<<<< HEAD
-          "Value": "\"8gX4X7vexTCysXGMyqlnkaPwHp90yDXUOXknpjHB/1Q=\""
+          "Value": "\"/mi3EEHEzn0A5qMFKU4icFeS4+FxJITuwoDEKj86WOY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 10:38:37 GMT"
-=======
-          "Value": "\"24l02gZmU/f1TzyCcBTNUKVqvMkthHJlqmOZ9DdpYtg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 08 Jun 2025 21:20:55 GMT"
->>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
+          "Value": "Mon, 09 Jun 2025 11:08:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3626,14 +3508,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-<<<<<<< HEAD
-          "Value": "sha256-8gX4X7vexTCysXGMyqlnkaPwHp90yDXUOXknpjHB/1Q="
+          "Value": "sha256-/mi3EEHEzn0A5qMFKU4icFeS4+FxJITuwoDEKj86WOY="
         }
       ]
     },
     {
-      "Route": "js/site.akgest4bg0.js",
-      "AssetFile": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\js\\site.js",
+      "Route": "js/contextHelp.uszjpdepjh.js",
+      "AssetFile": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\js\\contextHelp.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3642,7 +3523,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2090"
+          "Value": "6795"
         },
         {
           "Name": "Content-Type",
@@ -3650,11 +3531,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"poRqz41WG9aaOb84wkudo2fS2hMa38i6S5EgRJHwgUc=\""
+          "Value": "\"/mi3EEHEzn0A5qMFKU4icFeS4+FxJITuwoDEKj86WOY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 10:38:37 GMT"
+          "Value": "Mon, 09 Jun 2025 11:08:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3664,55 +3545,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "akgest4bg0"
+          "Value": "uszjpdepjh"
         },
         {
           "Name": "label",
-          "Value": "js/site.js"
+          "Value": "js/contextHelp.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-poRqz41WG9aaOb84wkudo2fS2hMa38i6S5EgRJHwgUc="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\js\\site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2090"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"poRqz41WG9aaOb84wkudo2fS2hMa38i6S5EgRJHwgUc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 09 Jun 2025 10:38:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-poRqz41WG9aaOb84wkudo2fS2hMa38i6S5EgRJHwgUc="
-=======
-          "Value": "sha256-24l02gZmU/f1TzyCcBTNUKVqvMkthHJlqmOZ9DdpYtg="
->>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
+          "Value": "sha256-/mi3EEHEzn0A5qMFKU4icFeS4+FxJITuwoDEKj86WOY="
         }
       ]
     },
