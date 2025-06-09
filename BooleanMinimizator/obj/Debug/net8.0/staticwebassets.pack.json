@@ -593,10 +593,13 @@
       "PackagePath": "staticwebassets\\js\\contextHelp.js"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\barac\\OneDrive\\Документы\\GitHub\\BooleanMinimizator\\BooleanMinimizator\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+=======
+>>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BooleanMinimizator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

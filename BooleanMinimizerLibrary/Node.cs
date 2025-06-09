@@ -12,7 +12,11 @@ namespace BooleanMinimizerLibrary
         Implies,
         Equivalent,
         Nand,
+<<<<<<< HEAD
         Nor
+=======
+        Nor      
+>>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
     }
 
     public class Node

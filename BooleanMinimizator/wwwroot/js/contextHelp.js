@@ -1,4 +1,24 @@
+/**
+ * Скрипт для обработки контекстной помощи и управления интерфейсом
+ */
 document.addEventListener("DOMContentLoaded", () => {
+    // Инициализация контекстной помощи
+    initContextHelp();
+    
+    // Инициализация карты Карно
+    initKarnaughMap();
+    
+    // Инициализация виртуальной клавиатуры
+    initKeyboard();
+    
+    // Инициализация кнопки поддержки
+    initSupportButton();
+});
+
+/**
+ * Инициализация системы контекстной помощи
+ */
+function initContextHelp() {
     let lastHoveredElement = null;
     let lastFocusedElement = null;
 
@@ -50,112 +70,120 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         }
     });
-});
 
-document.addEventListener("DOMContentLoaded", () => {
+    // Инициализация справочной кнопки
     const helpButton = document.getElementById("helpButton");
-
     if (helpButton) {
         helpButton.addEventListener("click", () => {
             // Открываем справочный документ в новой вкладке
             window.open("/UserHelp/vvedenie.htm", "_blank");
         });
     }
-});
-
-// Karnaugh map navigation
-let currentStep = 0;
-const steps = document.querySelectorAll('.karnaugh-step');
-
-function showStep(step) {
-    steps.forEach((s, i) => s.style.display = i === step ? 'block' : 'none');
-    document.getElementById('currentStep').textContent = step + 1;
 }
 
-function nextStep() {
-    if (currentStep < steps.length - 1) {
-        currentStep++;
-        showStep(currentStep);
+/**
+ * Инициализация навигации по карте Карно
+ */
+function initKarnaughMap() {
+    const steps = document.querySelectorAll('.karnaugh-step');
+    if (steps.length === 0) return;
+    
+    let currentStep = steps.length - 1; // Показываем последний шаг при загрузке
+    
+    function showStep(step) {
+        steps.forEach((s, i) => s.style.display = i === step ? 'block' : 'none');
+        const stepIndicator = document.getElementById('currentStep');
+        if (stepIndicator) {
+            stepIndicator.textContent = step + 1;
+        }
     }
+
+    window.nextStep = function() {
+        if (currentStep < steps.length - 1) {
+            currentStep++;
+            showStep(currentStep);
+        }
+    };
+
+    window.prevStep = function() {
+        if (currentStep > 0) {
+            currentStep--;
+            showStep(currentStep);
+        }
+    };
+    
+    // Показать текущий шаг при загрузке
+    showStep(currentStep);
 }
 
-function prevStep() {
-    if (currentStep > 0) {
-        currentStep--;
-        showStep(currentStep);
+/**
+ * Инициализация виртуальной клавиатуры
+ */
+function initKeyboard() {
+    const toggleKeyboardBtn = document.getElementById('toggleKeyboard');
+    const keyboard = document.getElementById('keyboard');
+    const inputField = document.getElementById('inputField');
+    
+    if (!toggleKeyboardBtn || !keyboard) return;
+    
+    // Проверяем состояние из localStorage при загрузке
+    if (localStorage.getItem("keyboardVisible") === "false") {
+        keyboard.style.display = "none";
+        toggleKeyboardBtn.innerText = "Показать клавиатуру";
+    } else {
+        keyboard.style.display = "grid";
+        toggleKeyboardBtn.innerText = "Скрыть клавиатуру";
     }
-}
-
-// Initialize first step
-document.addEventListener('DOMContentLoaded', () => {
-    if (steps.length > 0) {
-        showStep(0);
-    }
-});
-
-// Toggle keyboard visibility
-const toggleKeyboardBtn = document.getElementById('toggleKeyboard');
-const keyboard = document.getElementById('keyboard');
-
-if (toggleKeyboardBtn && keyboard) {
+    
+    // Обработка переключения видимости клавиатуры
     toggleKeyboardBtn.addEventListener('click', () => {
         const isVisible = keyboard.style.display !== 'none';
         keyboard.style.display = isVisible ? 'none' : 'grid';
         toggleKeyboardBtn.textContent = isVisible ? 'Показать клавиатуру' : 'Скрыть клавиатуру';
+        localStorage.setItem("keyboardVisible", isVisible ? "false" : "true");
+    });
+    
+    // Обработка нажатий на клавиши
+    const keys = document.querySelectorAll('.key');
+    keys.forEach(key => {
+        key.addEventListener('click', () => {
+            if (inputField) {
+                const symbol = key.textContent;
+                const start = inputField.selectionStart;
+                const end = inputField.selectionEnd;
+                const value = inputField.value;
+                
+                inputField.value = value.substring(0, start) + symbol + value.substring(end);
+                inputField.focus();
+                inputField.setSelectionRange(start + symbol.length, start + symbol.length);
+            }
+        });
     });
 }
 
-// Virtual keyboard functionality
-const inputField = document.getElementById('inputField');
-const keys = document.querySelectorAll('.key');
-
-keys.forEach(key => {
-    key.addEventListener('click', () => {
-        if (inputField) {
-            const symbol = key.textContent;
-            const start = inputField.selectionStart;
-            const end = inputField.selectionEnd;
-            const value = inputField.value;
-            
-            inputField.value = value.substring(0, start) + symbol + value.substring(end);
-            inputField.focus();
-            inputField.setSelectionRange(start + symbol.length, start + symbol.length);
-        }
-    });
-});
-
-// Support button functionality
-const helpButton = document.getElementById('helpButton');
-const supportText = document.getElementById('supportText');
-
-if (helpButton && supportText) {
+/**
+ * Инициализация кнопки поддержки
+ */
+function initSupportButton() {
+    const helpButton = document.getElementById('helpButton');
+    const supportText = document.getElementById('supportText');
+    
+    if (!helpButton || !supportText) return;
+    
     helpButton.addEventListener('click', () => {
         const isVisible = supportText.style.display !== 'none';
         supportText.style.display = isVisible ? 'none' : 'block';
     });
 }
 
-// Context help tooltips
-document.addEventListener('DOMContentLoaded', () => {
-    const elements = document.querySelectorAll('[data-help]');
-    
-    elements.forEach(element => {
-        const tooltip = document.createElement('div');
-        tooltip.className = 'tooltip';
-        tooltip.textContent = element.getAttribute('data-help');
-        
-        element.addEventListener('mouseenter', () => {
-            document.body.appendChild(tooltip);
-            const rect = element.getBoundingClientRect();
-            tooltip.style.top = rect.bottom + window.scrollY + 5 + 'px';
-            tooltip.style.left = rect.left + window.scrollX + 'px';
-        });
-        
-        element.addEventListener('mouseleave', () => {
-            if (tooltip.parentNode) {
-                tooltip.parentNode.removeChild(tooltip);
-            }
-        });
-    });
-});
+/**
+ * Функция для переключения видимости подсказок
+ * (Объявляется в глобальной области видимости для использования в HTML)
+ */
+window.toggleHint = function(hintId) {
+    const hint = document.getElementById(hintId);
+    if (hint) {
+        hint.style.display = hint.style.display === 'none' ? 'block' : 'none';
+    }
+};
 

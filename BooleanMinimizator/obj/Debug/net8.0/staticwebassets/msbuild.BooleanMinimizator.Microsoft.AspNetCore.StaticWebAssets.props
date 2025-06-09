@@ -66,29 +66,16 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
+<<<<<<< HEAD
       <Fingerprint>a1ib6xi7g5</Fingerprint>
       <Integrity>8gX4X7vexTCysXGMyqlnkaPwHp90yDXUOXknpjHB/1Q=</Integrity>
+=======
+      <Fingerprint>hdcybi5tpu</Fingerprint>
+      <Integrity>24l02gZmU/f1TzyCcBTNUKVqvMkthHJlqmOZ9DdpYtg=</Integrity>
+>>>>>>> 561c67472c8f3f1792550bebb55063e42fff7d4d
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\contextHelp.js'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
-      <SourceType>Package</SourceType>
-      <SourceId>BooleanMinimizator</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/BooleanMinimizator</BasePath>
-      <RelativePath>js/site.js</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>akgest4bg0</Fingerprint>
-      <Integrity>poRqz41WG9aaOb84wkudo2fS2hMa38i6S5EgRJHwgUc=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\UserHelp\annotatsiya.htm'))">
       <SourceType>Package</SourceType>

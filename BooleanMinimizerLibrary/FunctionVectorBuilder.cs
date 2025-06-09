@@ -21,7 +21,7 @@ namespace BooleanMinimizerLibrary
                 {
                     variables.Add(i switch
                     {
-                        0 => "x",
+                        0 => "x", 
                         1 => "y",
                         2 => "z",
                         3 => "w",
